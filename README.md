@@ -1,25 +1,38 @@
 # **Your Fully Autonomous AI [Research Agent]**
+
 ## **Website**
 
-  https://nyxcipher.ai/
+https://nyxcipher.ai/
+
+## Artsiom's solution image
+
+![Solution image](image.png)
 
 ## **Table of contents**
 
-- [NYX Cipher](#)
-  - [Introduction](#introduction)
-    - [Tracking](#tracking)
-    - [Daily Reports](#daily-reports)
-    - [Auto Trading Bot](#auto-trading-bot)
-    - [Collecting Data](#collecting-data)
-    - [Influencer Watchdog](#influencer-watchdog)
-  - [NYX Cipher Codebase](#nyx-cipher-codebase)
-    - [Prerequisites](#prerequisites)
-    - [Getting Started](#getting-started)
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [What's New](#new-update-⚠️)
+- [**Your Fully Autonomous AI \[Research Agent\]**](#your-fully-autonomous-ai-research-agent)
+  - [**Website**](#website)
+  - [Artsiom's solution image](#artsioms-solution-image)
+  - [**Table of contents**](#table-of-contents)
+- [**Introduction**](#introduction)
+  - [**Tracking**](#tracking)
+  - [**Daily Reports**](#daily-reports)
+  - [**Auto Trading Bot**](#auto-trading-bot)
+  - [**Collecting Data**](#collecting-data)
+  - [**Influencer Watchdog**](#influencer-watchdog)
+  - [](#)
+  - [**NYX Cipher Codebase**](#nyx-cipher-codebase)
+  - [**Prerequisites**](#prerequisites)
+  - [**Getting Started**](#getting-started)
+  - [**Installation**](#installation)
+  - [**Usage**](#usage)
+    - [Serving the app](#serving-the-app)
+    - [Running the tests](#running-the-tests)
+    - [Building a distribution version](#building-a-distribution-version)
+  - [**New Update ⚠️**](#new-update-️)
 
 # **Introduction**
+
 ## **Tracking**
 
 Nyx, your ultimate AI research assistant, plunges into the dynamic world of cryptocurrency. From monitoring community sentiment to tracking influencer buzz. With Nyx's sharp detection of scams and bots, invest with confidence, knowing you're shielded by the most vigilant guardian in the digital realm.
@@ -77,6 +90,7 @@ To install and set up the library, run:
 $ node --version
 $ npm install
 ```
+
 ## **Usage**
 
 ### Serving the app
@@ -84,6 +98,7 @@ $ npm install
 ```sh
 $ npm start
 ```
+
 ### Running the tests
 
 ```sh
